@@ -4,8 +4,8 @@
 - Maven 3 
 - MySQL 8
 
-#Diagram
--![image](https://github.com/user-attachments/assets/9a67a530-d084-408c-a8d7-891629ffd744)
+# Diagram
+- ![image](https://github.com/user-attachments/assets/9a67a530-d084-408c-a8d7-891629ffd744)
 
 # Technologies 
 - Spring MVC
